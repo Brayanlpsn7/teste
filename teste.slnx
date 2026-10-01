@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="../exercicio/exercicio.csproj" Id="a4579939-0cd4-4808-b8d8-1ae622b1b469" />
+  <Project Path="exercicio/exercicio.csproj" />
   <Project Path="exercicioEmGrupoMenu.csproj" />
 </Solution>
